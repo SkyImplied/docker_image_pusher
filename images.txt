@@ -1,2 +1,1 @@
-nginx
-sickcodes/docker-osx:latest
+dockurr/macos
